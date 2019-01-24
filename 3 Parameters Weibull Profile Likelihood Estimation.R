@@ -42,3 +42,8 @@ res
 confint(profile(res)) # confint w.r.t. the likelihood profile
 confint(res, method="uniroot") 
 
+
+# Import resource:
+
+# https://stackoverflow.com/questions/38676425/maximum-likelihood-estimation-for-three-parameter-weibull-distribution-in-r
+# https://stackoverflow.com/questions/38676425/maximum-likelihood-estimation-for-three-parameter-weibull-distribution-in-r
